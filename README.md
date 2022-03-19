@@ -4,6 +4,8 @@ A quiz app that can have different questions along with the result of the user.
 
 The score is calculated based on the number of correct selections.
 
+The web app can be accessed here: https://quiz-app-a90764.netlify.app/
+
 Questions
 
 ![SS1](https://user-images.githubusercontent.com/51265433/156652277-94d764d4-2189-4ce5-a459-bd76caa2f85c.png)
